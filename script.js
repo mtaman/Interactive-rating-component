@@ -16,16 +16,16 @@ b.addEventListener("click", () => {
 
             r = radios[i].value;
             span.innerHTML = radios[i].value;
+            main.style.cssText = `animation: slide .5s ease 200ms forwards;
+            -webkit-animation: slide 1s ease 100ms forwards;`;
 
+            thankSection.style.display = "block";
+
+            formSection.style.display = "none";
             break;
         }
 
-        main.style.cssText = `animation: slide .5s ease 200ms forwards;
-        -webkit-animation: slide 1s ease 100ms forwards;`;
 
-        thankSection.style.display = "block";
-
-        formSection.style.display = "none";
 
     }
 
