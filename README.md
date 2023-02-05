@@ -4,7 +4,7 @@
 ![](./design/desktop-thank-you-state.jpg)
 ### Links
 
-- Solution URL: [ solution](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-CSXcm842Pd)
+- Solution URL: [ solution](https://www.frontendmentor.io/solutions/interactive-rating-component-QrOjigxwR_)
 - Live Site URL: [live site](https://mtaman.github.io/Interactive-rating-component/)
 
 ## My process
